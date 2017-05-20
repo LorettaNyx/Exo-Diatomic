@@ -2,10 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.2.
 
-##Live Demo
+## Live Demo
 [Here](https://lorettanyx.github.io/exo-diatomic/)
 
-##To start
+## To start
 1. Clone the repository
 2. In the terminal change to the path of the project i.e: `D:\Workspace\Exo-Diatomic>`
 3. Run `npm install`

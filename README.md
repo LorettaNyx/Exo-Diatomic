@@ -3,8 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.2.
 
 ##Live Demo
-[Here]
-(https://lorettanyx.github.io/exo-diatomic/)
+[Here](https://lorettanyx.github.io/exo-diatomic/)
 
 ##To start
 1. Clone the repository
